@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
     <m2m_announcement_portal action="INSERT_OR_UPDATE">
-        <announcement display_value="AI Cloud Plan USA Feature Expansion">c4d95fb497e91110e7843d400153aff0</announcement>
+        <announcement display_value="">c4d95fb497e91110e7843d400153aff0</announcement>
         <order>100</order>
         <sp_portal display_value="Sony aibo Service Portal">a3b1863097a51110e7843d400153af0c</sp_portal>
         <sys_class_name>m2m_announcement_portal</sys_class_name>
