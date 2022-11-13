@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1db167f7753011108c8b143dd0c59f22</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 22:25:28</sys_created_on>
+        <sys_id>cefb35b897651110e7843d400153af70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 22:25:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
