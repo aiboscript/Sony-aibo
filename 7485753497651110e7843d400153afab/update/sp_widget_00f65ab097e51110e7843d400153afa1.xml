@@ -37,14 +37,11 @@ else
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-24 00:23:18</sys_created_on>
         <sys_id>00f65ab097e51110e7843d400153afa1</sys_id>
-        <sys_mod_count>3</sys_mod_count>
         <sys_name>aibo_search</sys_name>
         <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope>
         <sys_update_name>sp_widget_00f65ab097e51110e7843d400153afa1</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-24 01:01:09</sys_updated_on>
         <template><![CDATA[<div id="homepage-search" class="hidden-xs wrapper-xl">
   <div class="wrapper-xl">
   	<h2 class="text-center text-4x m-b-lg sp-tagline-color" ng-bind="options.title"></h2>

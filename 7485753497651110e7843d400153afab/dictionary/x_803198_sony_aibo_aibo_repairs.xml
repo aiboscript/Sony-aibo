@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7dfb35b897651110e7843d400153af3b" extends="task" label="aibo repairs" max_length="40" name="x_803198_sony_aibo_aibo_repairs" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional notes" max_length="1000" name="additional_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Repair" max_length="40" name="repair" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Scheduled" max_length="40" name="scheduled" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Scheduled date" max_length="40" name="scheduled_date" type="glide_date"/>
+    </element>
+</database>

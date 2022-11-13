@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="886882f497a51110e7843d400153af75" extends="task" label="aibo inquiries" max_length="40" name="x_803198_sony_aibo_aibo_inquiries" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Inquiry" max_length="1000" name="inquiry" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Response" max_length="1000" name="response" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Urgent" max_length="40" name="urgent" type="boolean"/>
+    </element>
+</database>

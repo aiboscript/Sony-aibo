@@ -5,7 +5,7 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <description/>
-        <group display_value="aibo request fulfillment group" name="aibo request fulfillment group">8b97b58797251110e7843d400153afa3</group>
+        <group display_value="">8b97b58797251110e7843d400153afa3</group>
         <match_conditions>ALL</match_conditions>
         <name>Assign aibo requests to request group</name>
         <order>100</order>
@@ -29,15 +29,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2bdaf9c797251110e7843d400153afb2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Assign aibo requests to request group</sys_name>
         <sys_overrides/>
         <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope>
         <sys_update_name>sysrule_assignment_2bdaf9c797251110e7843d400153afb2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-30 22:08:01</sys_updated_on>
         <table>x_803198_sony_aibo_aibo_parts</table>
         <user/>
     </sysrule_assignment>

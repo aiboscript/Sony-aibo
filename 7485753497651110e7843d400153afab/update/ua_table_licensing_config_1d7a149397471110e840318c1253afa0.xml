@@ -4,22 +4,19 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_803198_sony_aibo_aibo_repairs</name>
+        <name>x_803198_sony_aibo_aibo_inquiries</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-23 22:25:29</sys_created_on>
-        <sys_id>cafb35b897651110e7843d400153af81</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_803198_sony_aibo_aibo_repairs</sys_name>
+        <sys_created_on>2022-08-23 23:19:41</sys_created_on>
+        <sys_id>1d7a149397471110e840318c1253afa0</sys_id>
+        <sys_name>x_803198_sony_aibo_aibo_inquiries</sys_name>
         <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope>
-        <sys_update_name>ua_table_licensing_config_cafb35b897651110e7843d400153af81</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-23 22:25:29</sys_updated_on>
+        <sys_update_name>ua_table_licensing_config_1d7a149397471110e840318c1253afa0</sys_update_name>
     </ua_table_licensing_config>
 </record_update>

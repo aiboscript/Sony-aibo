@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4bf64a7497a51110e7843d400153af90" extends="sc_request" label="aibo requests" max_length="40" name="x_803198_sony_aibo_aibo_parts" type="collection"/>
+</database>
