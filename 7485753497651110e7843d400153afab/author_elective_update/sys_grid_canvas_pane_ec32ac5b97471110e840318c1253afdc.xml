@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Aibo Dashboard - New Tab">eb970a4597f211104b1a3e2e6253af1e</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2022-11-13 15:52:14">5832ac5b97471110e840318c1253afda</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-13 23:52:14</sys_created_on>
+        <sys_id>ec32ac5b97471110e840318c1253afdc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>eb970a4597f211104b1a3e2e6253af1e</sys_name>
+        <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_ec32ac5b97471110e840318c1253afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-13 23:52:18</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sony aibo">7485753497651110e7843d400153afab</application>
+        <file_path/>
+        <instance_id>5fe68ed5db8949101b813feb68961923</instance_id>
+        <instance_name>dev120886</instance_name>
+        <name>sys_grid_canvas_pane_ec32ac5b97471110e840318c1253afdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Aibo Dashboard - New Tab">eb970a4597f211104b1a3e2e6253af1e</grid_canvas><height>10</height><portal_widget display_value="Created 2022-11-13 15:52:14">5832ac5b97471110e840318c1253afda</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-13 23:52:14</sys_created_on><sys_id>ec32ac5b97471110e840318c1253afdc</sys_id><sys_mod_count>1</sys_mod_count><sys_name>eb970a4597f211104b1a3e2e6253af1e</sys_name><sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package><sys_policy/><sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope><sys_update_name>sys_grid_canvas_pane_ec32ac5b97471110e840318c1253afdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-13 23:52:18</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>472018513</payload_hash>
+        <record_name>eb970a4597f211104b1a3e2e6253af1e</record_name>
+        <reverted_from/>
+        <source>82ae54d797471110e840318c1253af2a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-13 23:52:18</sys_created_on>
+        <sys_id>d932201f97471110e840318c1253af83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18473687c220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-13 23:52:18</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>1532201f544711103103a4dc477da783</update_guid>
+        <update_guid_history>1532201f544711103103a4dc477da783:472018513,6c32201fb7471110dc0eccb2b7df3b25:-1160830946</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-13 23:52:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>00e8850115a8446eac90ffd9aa2dd184</sys_id>
+        <sys_metadata>ec32ac5b97471110e840318c1253afdc</sys_metadata>
+        <sys_name>eb970a4597f211104b1a3e2e6253af1e</sys_name>
+        <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope>
+        <sys_scope_delete display_value="">2d9e8cc882ec49919edb6f65408d52d1</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_ec32ac5b97471110e840318c1253afdc</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_ec32ac5b97471110e840318c1253afdc">d932201f97471110e840318c1253af83</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

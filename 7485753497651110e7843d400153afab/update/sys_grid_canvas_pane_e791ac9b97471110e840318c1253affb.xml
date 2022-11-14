@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Aibo Dashboard - New Tab">eb970a4597f211104b1a3e2e6253af1e</grid_canvas>
+        <height>8</height>
+        <portal_widget display_value="Created 2022-11-13 15:49:43">a791ac9b97471110e840318c1253aff9</portal_widget>
+        <posx>4</posx>
+        <posy>3</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-13 23:49:43</sys_created_on>
+        <sys_id>e791ac9b97471110e840318c1253affb</sys_id>
+        <sys_name>eb970a4597f211104b1a3e2e6253af1e</sys_name>
+        <sys_package display_value="Sony aibo" source="x_803198_sony_aibo">7485753497651110e7843d400153afab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sony aibo">7485753497651110e7843d400153afab</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_e791ac9b97471110e840318c1253affb</sys_update_name>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>
