@@ -29,7 +29,7 @@
         <sys_update_name>sp_instance_link_c6ac86f897a51110e7843d400153afeb</sys_update_name>
         <title>Inquiries</title>
         <type>url</type>
-        <url>https://dev100726.service-now.com/aibo/?id=sc_cat_item&amp;sys_id=18fd3c4f97211110e7843d400153afdd</url>
+        <url>https://dev120886.service-now.com/aibo/?id=sc_cat_item&amp;sys_id=18fd3c4f97211110e7843d400153afdd</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "Circle Icon",

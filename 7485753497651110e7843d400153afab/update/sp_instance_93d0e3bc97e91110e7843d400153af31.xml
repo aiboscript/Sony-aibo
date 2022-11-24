@@ -23,7 +23,16 @@
         <sys_update_name>sp_instance_93d0e3bc97e91110e7843d400153af31</sys_update_name>
         <title/>
         <url/>
-        <widget_parameters/>
+        <widget_parameters><![CDATA[{
+	"max_number": {
+		"value": null,
+		"displayValue": ""
+	},
+	"kb_category": {
+		"value": "690fdff897e91110e7843d400153aff3",
+		"displayValue": "Popular Topics"
+	}
+}]]></widget_parameters>
     </sp_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=93d0e3bc97e91110e7843d400153af31"/>
 </record_update>

@@ -15,7 +15,7 @@
         <name/>
         <order>500</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>https://dev100726.service-now.com/aibo/?id=aibo_catalog</query>
+        <query>https://dev120886.service-now.com/aibo/?id=aibo_catalog</query>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
